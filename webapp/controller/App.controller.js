@@ -6,6 +6,6 @@ sap.ui.define([
 	return Controller.extend("com.perceptio.training.zpedidos_vtas.controller.App", {
 		onInit: function () {
 
-		}
+		}  
 	});
 });    
